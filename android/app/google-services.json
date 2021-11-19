@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "223049150178",
+    "project_id": "groupchat-7da6b",
+    "storage_bucket": "groupchat-7da6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223049150178:android:c2dcdcd86ba01c9adaf8bb",
+        "android_client_info": {
+          "package_name": "com.nithin.gc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223049150178-du3s4i8lvc0teee8b2du18oenithk0a4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyJ-uIf2K0LBckgOWvOqHHAeLAmj2VqJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223049150178-du3s4i8lvc0teee8b2du18oenithk0a4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
